@@ -2,9 +2,9 @@
 ## NAME: GEETHALAKSHMI D
 ## REG NO: 212224060079
 
-# Aim of the Experiment: To design a quarter wave transformer for matching a 50 Ohm microstrip line with a load of 123 Ohms Software to be used: CST studio suite 2019 (Student edition)
+## Aim of the Experiment: To design a quarter wave transformer for matching a 50 Ohm microstrip line with a load of 123 Ohms Software to be used: CST studio suite 2019 (Student edition)
 
-# Design:
+## Design:
 
 RF system architecture can be implemented using RF System models available in the Analog/RF library
 
@@ -16,5 +16,5 @@ RF system architecture can be implemented using RF System models available in th
 
 <img width="619" height="475" alt="image" src="https://github.com/user-attachments/assets/18400bc4-b166-4809-a232-3115221101a9" />
 
-# Conclusion:
+## Conclusion:
 The quarter-wave transformer was successfully designed using CST Microwave Studio to match a 50 Ω line with a 123 Ω load. The transformer achieved proper impedance matching, improving signal transfer and minimizing reflections.
